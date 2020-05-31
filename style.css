@@ -1,0 +1,47 @@
+#title {
+    letter-spacing: 0.2px;
+    color: darkblue;
+    font-family: Helvetica;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Arial;
+}
+
+body {
+    color: darkred;
+    font-family: Helvetica; 
+    font-size: 18px;
+}
+
+img {
+    height: 200px;
+    transition: 500ms;
+}
+
+img:hover {
+    height: 220px;
+}
+
+#taobao {
+    height: 100px;
+    transition: 500ms;
+}
+
+#taobao:hover {
+    height: 120px;
+}
+
+#shopee {
+    height: 130px;
+    transition: 500ms;
+}
+
+#shopee:hover {
+    height: 150px;
+}
+
+body {
+    background-color: papayawhip;
+}
